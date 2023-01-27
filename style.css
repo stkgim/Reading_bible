@@ -8,5 +8,10 @@
 * {
     font-family: 나눔고딕;
     font-weight: bold;
-    font-size: 60px;
+    font-size: 80px;
+    text-align: center;
+}
+
+.h1 {
+    text-align: center;
 }
